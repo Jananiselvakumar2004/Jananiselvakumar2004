@@ -1,15 +1,18 @@
- <h1 align="center">Hi 👋, I'm Janani Selvakumar</h1>
+<h1 align="center">Hi 👋, I'm Janani Selvakumar</h1>
 
 <h3 align="center">QA Automation Engineer | Selenium | Java | TestNG | SQL | Git | AWS Learner</h3>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-red?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+Passionate about building reliable automation frameworks, improving software quality, and continuously learning modern testing technologies.
+</p>
 
 <p align="center">
-Passionate about building reliable automation frameworks, ensuring software quality, and continuously learning modern testing technologies.
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
@@ -20,97 +23,122 @@ Passionate about building reliable automation frameworks, ensuring software qual
 
 💻 Aspiring **QA Automation Engineer**
 
-🧪 Passionate about **Software Testing & Test Automation**
+🧪 Passionate about **Automation Testing & Software Quality**
+
+🚀 Building automation frameworks using **Selenium WebDriver with Java**
 
 🌱 Currently learning **AWS Cloud**
 
-🚀 Building real-world automation testing projects using **Selenium with Java**
-
-🎯 Looking for opportunities to begin my career in QA Automation.
+🎯 Looking for opportunities as a **QA Automation Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming
+### 💻 Programming
 - Java
 
-### Automation Testing
+### 🧪 Automation Testing
 - Selenium WebDriver
 - TestNG
 - Maven
 
-### Testing
-- Manual Testing
+### ✅ Manual Testing
 - Functional Testing
 - Regression Testing
 - Smoke Testing
+- Sanity Testing
 - Test Case Design
 - Bug Reporting
 
-### Database
-- SQL (MySQL)
+### 🗄️ Database
+- MySQL
 
-### Version Control
-- Git
-- GitHub
-
-### Web Technologies
+### 🌐 Web
 - HTML
 - CSS
 - JavaScript
+
+### 🔧 Tools
+- Git
+- GitHub
+- IntelliJ IDEA
+- Eclipse
 
 ---
 
 ## 🚀 Featured Project
 
-### 🛒 Amazon Selenium Automation Testing Framework
+### 🛒 Amazon Selenium Automation Framework
 
 A real-world inspired automation testing project developed using Selenium WebDriver with Java.
 
-### Features
+### ✔ Features
 
-✅ Product Search
-
-✅ Product Validation
-
-✅ Add to Cart
-
-✅ Cart Verification
-
-✅ Checkout Flow Simulation
-
-✅ Test Case Documentation
-
-✅ Bug Report Tracking
-
-✅ Project Flowcharts
+- Product Search Automation
+- Product Validation
+- Add to Cart
+- Cart Verification
+- Checkout Flow Simulation
+- Reusable Test Scripts
+- Test Case Documentation
+- Bug Report Tracking
+- Project Flowcharts
 
 ---
 
-## 📂 Currently Working On
+## 📚 Currently Learning
 
-- Selenium Automation Framework
-- Java Practice
-- QA Interview Preparation
+- Advanced Selenium Concepts
+- Page Object Model (POM)
+- Data-Driven Testing
+- TestNG Framework
 - AWS Cloud Fundamentals
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jananiselvakumar2004&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jananiselvakumar2004&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Jananiselvakumar2004&theme=tokyonight"/>
+
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-💼 LinkedIn:
- (https://www.linkedin.com/in/janani-l-s-2409b3257/)
-📧 Email:
+💼 LinkedIn
+
+https://www.linkedin.com/in/janani-l-s-2409b3257/
+
+📧 Email
+
 jananiselvakumar20@gmail.com
 
-🌍 GitHub:
+🌐 GitHub
+
 https://github.com/Jananiselvakumar2004
 
 ---
 
 ## 🎯 Career Objective
 
-I aspire to build a successful career as a **QA Automation Engineer**, creating scalable automation frameworks and delivering high-quality software through effective testing practices.
+I aspire to build a successful career as a **QA Automation Engineer**, developing scalable automation frameworks and contributing to high-quality software delivery through efficient testing practices.
 
-⭐ Thank you for visiting my GitHub profile!
+---
+
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
