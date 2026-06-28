@@ -100,10 +100,9 @@ A real-world inspired automation testing project developed using Selenium WebDri
 ## 📫 Connect With Me
 
 💼 LinkedIn:
-(Add your LinkedIn profile link)
-
+ (https://www.linkedin.com/in/janani-l-s-2409b3257/)
 📧 Email:
-(Add your email)
+jananiselvakumar20@gmail.com
 
 🌍 GitHub:
 https://github.com/Jananiselvakumar2004
